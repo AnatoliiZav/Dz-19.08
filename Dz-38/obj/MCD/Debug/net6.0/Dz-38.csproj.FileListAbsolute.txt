@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\Dz-38.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\Dz-38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\Dz-38.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\Dz-38.AssemblyInfo.cs
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\Dz-38.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\bin\MCD\Debug\net6.0\Dz-38.exe
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\bin\MCD\Debug\net6.0\Dz-38.deps.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\bin\MCD\Debug\net6.0\Dz-38.runtimeconfig.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\bin\MCD\Debug\net6.0\Dz-38.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\bin\MCD\Debug\net6.0\Dz-38.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\Dz-38.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\refint\Dz-38.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\Dz-38.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\Dz-38.genruntimeconfig.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-19.08\Dz-38\obj\MCD\Debug\net6.0\ref\Dz-38.dll
